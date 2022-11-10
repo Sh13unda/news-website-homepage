@@ -3,7 +3,10 @@
     padding:0px;
 }
 .attribution {
-    font-size: 50px;
+    font-size: 11px;
     text-align: center; 
     color: hsl(228, 45%, 44%); 
+}
+.attribution a {
+    text-decoration: none;
 }
