@@ -104,7 +104,8 @@ h2 {
     flex-direction: column;
 }
 h3 {
-    color: hsl(36, 100%, 99%)
+    color: hsl(36, 100%, 99%);
+    margin-bottom: 10px;
 }
 hr {
     color: hsl(233, 8%, 79%);
