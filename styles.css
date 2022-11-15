@@ -98,6 +98,7 @@ article {
 }
 h2 {
     color: hsl(35, 77%, 62%);
+    margin-bottom: 15px;
 }
 .art-items {
     display: flex;
