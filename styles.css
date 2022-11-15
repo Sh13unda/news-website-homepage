@@ -139,7 +139,8 @@ h5 {
     height: 7rem;
 }
 .attribution {
-    padding-top: 80px;
+    margin-top: 150px;
+    margin-bottom: 0px;
     font-size: 15px;
     text-align: center; 
     color: hsl(228, 45%, 44%); 
