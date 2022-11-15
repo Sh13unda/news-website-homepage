@@ -55,7 +55,7 @@ p {
     color: hsl(233, 8%, 79%);
 }
 #hero {
-    width: 92%;
+    width: 100%;
 } 
 main {
     display: flex;
@@ -89,6 +89,8 @@ button:hover {
     background: hsl(240, 100%, 5%);
 }
 article {
+    width: 70%;
+    height: 60vh;
     padding: 10px;
     background:hsl(240, 100%, 5%);
     display: flex;
