@@ -104,6 +104,11 @@ h2 {
 h3 {
     color: hsl(36, 100%, 99%)
 }
+hr {
+    color: hsl(233, 8%, 79%);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 footer {
     display: flex;
     margin-top: 60px;
